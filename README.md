@@ -174,6 +174,7 @@ to `/dev/null` to exclude printing time.
 
 <details>
 <summary><strong> See features  </strong></summary>
+
 **1. To compile executables:** 🛠️
 ```bash
 make
